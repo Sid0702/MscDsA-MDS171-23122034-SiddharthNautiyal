@@ -1,8 +1,29 @@
 
 Name = sid
-Date = 07
+Date = 0909
+Item Code = poha
+Quantity = 1
+Rate = 90
+GuestCount = 1
+------------------------------------------------------------------------------------------------------------------------
+Name = siddharth
+Date = 0702
 Item Code = egg
 Quantity = 2
-Rate = 20
-GuestCount = 2
+Rate = 40
+GuestCount = 1
 -----------------------------------------------------------------------------------------------------------
+Name = siddharth
+Date = 0909
+Item Code = poha
+Quantity = 2
+Rate = 160
+customercount = 10
+**************************************************************
+Name = chirag
+Date = 0909
+Item Code = dosa
+Quantity = 2
+Rate = 200
+customercount = 4
+**************************************************************
