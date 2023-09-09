@@ -13,3 +13,4 @@ CONTENTS
 |Lab-02| The Name Collector's Quest|[Lab-02](https://github.com/Sid0702/MscDsA-MDS171-23122034-SiddharthNautiyal/blob/main/Lab-02.ipynb)|
 |Lab-03| The Tale of Numbers' Harmony|[Lab-03](https://github.com/Sid0702/MscDsA-MDS171-23122034-SiddharthNautiyal/blob/main/Lab-03.ipynb)|
 ||Lab-04| A Taste of Success: The Restaurant Management System|[Lab-04](https://github.com/Sid0702/MscDsA-MDS171-23122034-SiddharthNautiyal/blob/main/Lab-04.ipynb)
+||Lab-05|Mix & Match Calculator|[Lab-05](https://github.com/Sid0702/MscDsA-MDS171-23122034-SiddharthNautiyal/tree/main/lab-05)
