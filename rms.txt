@@ -27,3 +27,10 @@ Quantity = 2
 Rate = 200
 customercount = 4
 **************************************************************
+Name = siddharth
+Date = 0909
+Item Code = pooha
+Quantity = 2
+Rate = 1560
+customercount = 3
+**************************************************************

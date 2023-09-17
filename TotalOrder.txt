@@ -1,0 +1,16 @@
+Order ID: 15042
+chicken - 1 x Rs500 = Rs500
+fish - 1 x Rs500 = Rs500
+Total: Rs1000
+
+Order ID: 66363
+mutton - 2 x Rs1000 = Rs2000
+beer - 2 x Rs800 = Rs1600
+mutton - 1 x Rs1000 = Rs1000
+Total: Rs4600
+
+Order ID: 81528
+fish tikka - 1 x Rs500 = Rs500
+beer - 2 x Rs800 = Rs1600
+Total: Rs2100
+
