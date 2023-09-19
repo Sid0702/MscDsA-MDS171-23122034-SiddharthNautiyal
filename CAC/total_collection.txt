@@ -1,0 +1,25 @@
+Total Bus Collection: 0
+Total Air Tickets Collection: 56789.0
+Total Train Collection: 0
+Total Ticket Sales: 1
+Total Collection of All Tickets Booked: 56789.0
+Total Bus Collection: 0
+Total Air Tickets Collection: 0
+Total Train Collection: 2345.0
+Total Ticket Sales: 1
+Total Collection of All Tickets Booked: 2345.0
+Total Bus Collection: 2345.0
+Total Air Tickets Collection: 0
+Total Train Collection: 2345.0
+Total Ticket Sales: 2
+Total Collection of All Tickets Booked: 4690.0
+Total Bus Collection: 2345.0
+Total Air Tickets Collection: 0
+Total Train Collection: 3579.0
+Total Ticket Sales: 3
+Total Collection of All Tickets Booked: 5924.0
+Total Bus Collection: 2345.0
+Total Air Tickets Collection: 0
+Total Train Collection: 3579.0
+Total Ticket Sales: 3
+Total Collection of All Tickets Booked: 5924.0

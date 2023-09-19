@@ -1,0 +1,14 @@
+{'Passenger name': 'siddharth', 'AGE': 23, 'Sex': 'male', 'Berth': 'window'}
+{'Train No': '9453', 'PNR NO': '66592', 'Date of Journey': '4/3/23', 'From': 'pune', 'To': 'dehradun', 'Base Fair': 4557.0, 'No of passenger': 1, 'Total fair': 4557.0}
+{'Passenger name': 'ADITYA', 'AGE': 22, 'Sex': 'MALE', 'Berth': 'LOWER'}
+{'Train No': '1234', 'PNR NO': '90076', 'Date of Journey': '12-12-2023', 'From': 'PATNA', 'To': 'PUNE', 'Base Fair': 2000.0, 'No of passenger': 1, 'Total fair': 2000.0}
+{'Passenger name': 'GANESH', 'AGE': 21, 'Sex': 'MALE', 'Berth': 'WINDOW'}
+{'Train No': '23456', 'PNR NO': '13371', 'Date of Journey': '07/07/23', 'From': 'KOLKATA', 'To': 'KERALA', 'Base Fair': 4569.0, 'No of passenger': 1, 'Total fair': 4569.0}
+{'Passenger name': 'swastik', 'AGE': 22, 'Sex': 'male', 'Berth': 'window'}
+{'Train No': '3456', 'PNR NO': '65037', 'Date of Journey': '09/09/2023', 'From': 'kolkata', 'To': 'pune', 'Base Fair': 2346.0, 'No of passenger': 1, 'Total fair': 2346.0}
+{'Passenger name': 'hitanshi', 'AGE': 22, 'Sex': 'female', 'Berth': 'lower'}
+{'Train No': '234', 'PNR NO': '20888', 'Date of Journey': '09/09/23', 'From': 'delhi', 'To': 'lavasa', 'Base Fair': 2345.0, 'No of passenger': 1, 'Total fair': 2345.0}
+{'Passenger name': 'hitanshi', 'AGE': 22, 'Sex': 'female', 'Berth': 'lower'}
+{'Train No': '234', 'PNR NO': '20888', 'Date of Journey': '09/09/23', 'From': 'delhi', 'To': 'lavasa', 'Base Fair': 2345.0, 'No of passenger': 1, 'Total fair': 2345.0}
+{'Passenger name': 'siddharth', 'AGE': 22, 'Sex': 'male', 'Berth': 'window'}
+{'Train No': '12345', 'PNR NO': '75969', 'Date of Journey': '09/09/2023', 'From': 'delhi', 'To': 'dehradun', 'Base Fair': 1234.0, 'No of passenger': 1, 'Total fair': 1234.0}

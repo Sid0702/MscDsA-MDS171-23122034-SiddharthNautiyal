@@ -1,0 +1,2 @@
+{'Passenger Name': 'vatsal', 'Age': 25, 'Sex': 'female', 'Seat Preference': 'window'}
+{'Flight No': '4567', 'PNR NO': '96132', 'Date of Journey': '09/08/2023', 'Departure Airport': 'finland', 'Destination Airport': 'ukrain', 'Base Fare': 56789.0, 'No of Passengers': 1, 'Total Fare': 56789.0}

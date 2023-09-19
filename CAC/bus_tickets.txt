@@ -1,0 +1,14 @@
+{'Passenger Name': 'sid', 'Age': 23, 'Sex': 'male', 'Seat Preference': 'window'}
+{'Bus No': 'uk07df7683', 'PNR NO': '22861', 'Date of Journey': 'himachal pradesh', 'From': 'hp', 'To': 'dehradun', 'Base Fare': 4573.0, 'No of Passengers': 1, 'Total Fare': 4573.0}
+{'Passenger Name': 'VEDANT', 'Age': 23, 'Sex': 'MALE', 'Seat Preference': 'WINDOW'}
+{'Bus No': '56789', 'PNR NO': '12667', 'Date of Journey': '07/09/23', 'From': 'DEHRADUN', 'To': 'PUNE', 'Base Fare': 4567.0, 'No of Passengers': 1, 'Total Fare': 4567.0}
+{'Passenger Name': 'tanuja ', 'Age': 23, 'Sex': 'male', 'Seat Preference': 'window'}
+{'Bus No': '2345', 'PNR NO': '94146', 'Date of Journey': '23/09/2023', 'From': 'assam', 'To': 'pune', 'Base Fare': 2344.0, 'No of Passengers': 1, 'Total Fare': 2344.0}
+{'Passenger Name': 'dipu', 'Age': 22, 'Sex': 'male', 'Seat Preference': 'side lower'}
+{'Bus No': '4567', 'PNR NO': '23702', 'Date of Journey': '09/23/2023', 'From': 'delhi', 'To': 'kolkata', 'Base Fare': 4567.0, 'No of Passengers': 1, 'Total Fare': 4567.0}
+{'Passenger Name': 'dipu', 'Age': 22, 'Sex': 'male', 'Seat Preference': 'side lower'}
+{'Bus No': '4567', 'PNR NO': '23702', 'Date of Journey': '09/23/2023', 'From': 'delhi', 'To': 'kolkata', 'Base Fare': 4567.0, 'No of Passengers': 1, 'Total Fare': 4567.0}
+{'Passenger Name': 'manish', 'Age': 22, 'Sex': 'male', 'Seat Preference': 'window'}
+{'Bus No': '3456', 'PNR NO': '24706', 'Date of Journey': '09/03/2023', 'From': 'delhi', 'To': 'lavasa', 'Base Fare': 2342.0, 'No of Passengers': 1, 'Total Fare': 2342.0}
+{'Passenger Name': 'gupta', 'Age': 24, 'Sex': 'male', 'Seat Preference': 'window'}
+{'Bus No': '34567', 'PNR NO': '93540', 'Date of Journey': '09/09/23', 'From': 'pune', 'To': 'lavasa', 'Base Fare': 2345.0, 'No of Passengers': 1, 'Total Fare': 2345.0}
